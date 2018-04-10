@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Disney" verbose="1" >
+  <test name="Nopackage" >
+    <classes>
+       <class name="com.creditacceptance.testRunner.testNGtestRunner" />
+    </classes>
+  </test>
+</suite>
